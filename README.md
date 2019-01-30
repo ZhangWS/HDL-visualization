@@ -1,9 +1,9 @@
 # Accessible Civic Participation
 ## GIS Visualizations with Folium and GeoPandas 
 
-The [Democratic Party of Washington County, Oregon](https://www.washcodems.org) supports the Neighborhood Leader Program as well as the House District Leader Program, both of which encourages motivated Democrats to network with their neighbors and friends and get them to turn out at election time. HDLs are critical in acting as social nexuses, often being the first ones to contact local residents when they become active in the Party. 
+The [Democratic Party of Washington County, Oregon](https://www.washcodems.org) supports the Neighborhood Leader Program as well as the House District Leader Program, both of which encourages motivated Democrats to network with their neighbors and friends, provide them with credible sources of information, and motivate them to turn out at election time. HDLs are critical social hubs, experienced local leaders who are often the first point of contact for local residents when they first become active in the Party. 
 
-However, finding a resident's house district and HDL can be difficult, because local organizations rarely have the resources, i.e. willing volunteers with technical know-how, to combine all of the needed information and present it in an easy to digest manner. Instead, organizations rely on text or a convoluted mass of links and free tools, which has the potential of turning off busy local residents who have the interest but maybe not the energy to dig around for themselves.
+However, it's often difficult to locate a resident's house district and HDL can be difficult. Local organizations rarely have the resources, i.e. willing volunteers with technical know-how, to combine all of the needed information and present it in an easy-accessible manner. Instead, organizations rely on blocks of text or a convoluted mass of links to free resources, which has the potential of turning off busy local residents who have the interest but maybe not the energy to dig around for themselves.
 
 This is a demonstration of how open source visualization tools can be applied to the civic participation space. The result is a self-contained map of Washington County, Oregon, that contains easy-to-access information about a user's state house district and 'home' HDLs.
 
